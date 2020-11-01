@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/JoseMaria/Compartida/p4/p4_2/p4_2.gpr
+20201021082227
+[BOUND OBJECT FILES]
+/home/JoseMaria/Compartida/p4/p4_2/obj/controlador.o
+/home/JoseMaria/Compartida/p4/p4_2/obj/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/JoseMaria/Compartida/p4/p4_2/obj/
+-L/home/JoseMaria/Compartida/p4/p4_2/obj/
+-L/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/4.9.3/adalib/
+-static
+-static-libgcc
+/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/4.9.3/adalib/libgnarl.a
+/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/4.9.3/adalib/libgnat.a
+-lpthread
+-lrt
