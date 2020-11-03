@@ -1,4 +1,4 @@
-//Compilación por consola: gcc p5.c funciones_time.c -o p5 -lpthread -lrtf
+//Compilación por consola: gcc p5.c funciones_time.c -o p5 -lpthread -lrt
 //Configuración en eclipse: botón derecho sobre el proyecto -> Properties -> C/C++ Build -> Settins -> Cross GCC Linker -> Libraries -> Añadir pthread y rt(time.h?)
 //Autor:Gonzalo Bueno Rodríguez
 #include <pthread.h>
@@ -16,10 +16,11 @@
 //Consideraciones sobre las horas mostradas con printf:
 //Sumamos 1900 al al año porque tm_year da los años transcurridos desde 1900
 //El mes se muestra con 1 menos al actual ya que existe el mes 0, los meses van de 0 a 11 no de 1 a 12
-//Si sumamos 1 a los meses nos mostraría el mes actual correctamente
+//Sumamos 1 a los meses nos mostraría el mes actual correctamente
 //CLOCK_MONOTONIC nos da la el tiempo que lleva la máquina encendida desde la época UNIX, que es 1/01/1970(se muestra mes 0 que es 1 en realidad)
 //CLOCK_REALTIME es la hora actual de la máquina, teniendo en cuenta que los meses van de 0 a 11 en el struct tm
 //CLOCK_THREAD_CPUTIME_ID es el tiempo del procesador de la hebra que lo invoca
+//Estos 2 relojes comienzan en 1 en lugar de 0 debido a que estamos en la zona horaria GMT +1
 
 typedef struct {
 	int recibidas, esperadas;
@@ -101,7 +102,7 @@ void HiloPeriodicoConRetardos(seniales_t *seniales) {
 
 		//Mostrar la hora en formato día/mes/año horas:minutos:segundos.milisegundos. Los milisegundos se obtienen al dividir los nanosegundos de la hora actual por 1000000
 		
-		printf("%d/%d/%d %d:%d:%d.%ld \n",hora->tm_mday, hora->tm_mon, hora->tm_year+1900, hora->tm_hour, hora->tm_min, 
+		printf("%d/%d/%d %d:%d:%d.%ld \n",hora->tm_mday, hora->tm_mon+1, hora->tm_year+1900, hora->tm_hour, hora->tm_min, 
 		hora->tm_sec,actual.tv_nsec/1000000); 
 
 		//Leemos la hora actual de CLOCK_REALTIME
@@ -111,7 +112,7 @@ void HiloPeriodicoConRetardos(seniales_t *seniales) {
 		hora = localtime(&actual.tv_sec);
 
 		//Mostrar la hora en formato día/mes/año horas:minutos:segundos.milisegundos. Los milisegundos se obtienen al dividir los nanosegundos de la hora actual por 1000000
-		printf("%d/%d/%d %d:%d:%d.%ld \n",hora->tm_mday, hora->tm_mon, hora->tm_year+1900, hora->tm_hour, hora->tm_min, 
+		printf("%d/%d/%d %d:%d:%d.%ld \n",hora->tm_mday, hora->tm_mon+1, hora->tm_year+1900, hora->tm_hour, hora->tm_min, 
 		hora->tm_sec,actual.tv_nsec/1000000); 
 
 		//Leemos la hora actual de CLOCK_THREAD_CPUTIME_ID
@@ -121,7 +122,7 @@ void HiloPeriodicoConRetardos(seniales_t *seniales) {
 		hora = localtime(&actual.tv_sec);
 
 		//Mostrar la hora en formato día/mes/año horas:minutos:segundos.milisegundos. Los milisegundos se obtienen al dividir los nanosegundos de la hora actual por 1000000
-		printf("%d/%d/%d %d:%d:%d.%ld \n",hora->tm_mday, hora->tm_mon, hora->tm_year+1900, hora->tm_hour, hora->tm_min, 
+		printf("%d/%d/%d %d:%d:%d.%ld \n",hora->tm_mday, hora->tm_mon+1, hora->tm_year+1900, hora->tm_hour, hora->tm_min, 
 		hora->tm_sec,actual.tv_nsec/1000000); 
 
 		//Crear un bucle que realice 100000000 de vueltas (el cuerpo del bucle estará vacío). Esta acción incrementará el tiempo de procesador del hilo debido a las sumas y comparaciones del buble
