@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>/home/gonzalo/STR/p6/P6/p6.gpr</vfs_file>
+    <file_marker column=" 19" line=" 69" >
+      <vfs_project>/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file>/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 17" >
+      <vfs_project>/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file>/home/gonzalo/STR/p6/P6/src/controlador.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 39" line=" 6">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/controlador.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/controlador.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/controlador.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/controlador.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 135">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 5">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 17">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/controlador.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 2">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/controlador.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 135">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 45" line=" 15">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 37">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 46" line=" 90">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 37">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 40">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 47">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 47">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 47">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 87" line=" 67">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 94">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 111">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 141">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 111">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 115">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 148">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 5">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 47">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 60">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 47">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 47">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 47">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 90" line=" 66">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 47">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 67">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 47">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 47">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 47">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 68" line=" 80">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 47">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 104" line=" 67">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 90">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 47">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 62" line=" 123">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 47">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 141">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 47">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 104" line=" 67">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 47">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 47">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 104" line=" 67">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 135">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 19" line=" 66">
+      <vfs_project >/home/gonzalo/STR/p6/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/gonzalo/STR/p6/P6/src/main.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file  />
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >/home/JoseMaria/ProyectosADA/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/JoseMaria/ProyectosADA/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 12">
+      <vfs_project >/home/JoseMaria/ProyectosADA/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/JoseMaria/ProyectosADA/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >/home/JoseMaria/ProyectosADA/P6/src/controlador.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >/home/JoseMaria/ProyectosADA/P6/src/controlador.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 12">
+      <vfs_project >/home/JoseMaria/ProyectosADA/P6/p6.gpr</vfs_project>
+      <vfs_file >/home/JoseMaria/ProyectosADA/P6/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >/home/JoseMaria/Compartida/controlador.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >/home/JoseMaria/Compartida/controlador.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >/home/JoseMaria/Compartida/main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
